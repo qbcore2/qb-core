@@ -9,7 +9,7 @@ it.
 
 ## The problem it solves
 
-Real qb-core-era scripts (qb-doorlock, qb-banking, qb-recyclejob, …) declare:
+Real qb-core-era scripts (qb-doorlock, qb-banking, …) declare:
 
 ```lua
 shared_scripts {
